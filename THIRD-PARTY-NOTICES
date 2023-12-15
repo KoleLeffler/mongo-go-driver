@@ -1430,7 +1430,7 @@ License notice for gopkg.in/yaml.v3
 
 This project is covered by two different licenses: MIT and Apache.
 
-#### MIT License ####
+ *## MIT License ####
 
 The following files were ported to Go from C files of libyaml, and thus
 are still covered by their original MIT license, with the additional
@@ -1477,3 +1477,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+ 
